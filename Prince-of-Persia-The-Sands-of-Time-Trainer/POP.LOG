@@ -1,0 +1,201 @@
+*************************************************************************
+Engine v4386-37  Start - Tue Jun 23 08:59:42 2026
+
+-----------------------------------------------------------------------
+- Prince Of Persia : The Sands of Time started on 2026-06-23 at 8:59:42
+-----------------------------------------------------------------------
+
+Version: v181
+Device successfully created
+
+  Device information
+  --------------------------------------------------
+  Device   : Intel(R) HD Graphics
+  Driver   : igdumdim32.dll version 10.18.0010.5161
+  Vendor ID: 0x8086
+  Device ID: 0x152
+
+  Device capabilities
+  --------------------------------------------------
+  Current mode           : 800x600 [D3DFMT_A8R8G8B8] (fullscreen)
+  Max texture size       : 8192x8192
+  MaxSimultaneousTextures: 8
+  MaxTextureBlendStages  : 8
+  MaxPrimitiveCount      : 8388607
+  MaxVertexIndex         : 16777215
+  MaxStreams             : 16
+  MaxStreamStride        : 255
+  VertexShaderVersion    : 3.0
+  MaxVertexShaderConst   : 256
+  PixelShaderVersion     : 3.0
+
+  Texture formats
+  --------------------------------------------------
+  D3DFMT_A8R8G8B8: Yes
+  D3DFMT_X8R8G8B8: Yes
+  D3DFMT_R5G6B5  : Yes
+  D3DFMT_A1R5G5B5: Yes
+  D3DFMT_X1R5G5B5: No
+  D3DFMT_A4R4G4B4: Yes
+  D3DFMT_P8      : No
+  D3DFMT_DXT1    : Yes
+  D3DFMT_DXT3    : Yes
+  D3DFMT_DXT5    : Yes
+
+===========================Loading WOL: 0XB015CEA===========================
+Device successfully created
+
+  Device information
+  --------------------------------------------------
+  Device   : Intel(R) HD Graphics
+  Driver   : igdumdim32.dll version 10.18.0010.5161
+  Vendor ID: 0x8086
+  Device ID: 0x152
+
+  Device capabilities
+  --------------------------------------------------
+  Current mode           : 1024x768 [D3DFMT_A8R8G8B8] (fullscreen)
+  Max texture size       : 8192x8192
+  MaxSimultaneousTextures: 8
+  MaxTextureBlendStages  : 8
+  MaxPrimitiveCount      : 8388607
+  MaxVertexIndex         : 16777215
+  MaxStreams             : 16
+  MaxStreamStride        : 255
+  VertexShaderVersion    : 3.0
+  MaxVertexShaderConst   : 256
+  PixelShaderVersion     : 3.0
+
+  Texture formats
+  --------------------------------------------------
+  D3DFMT_A8R8G8B8: Yes
+  D3DFMT_X8R8G8B8: Yes
+  D3DFMT_R5G6B5  : Yes
+  D3DFMT_A1R5G5B5: Yes
+  D3DFMT_X1R5G5B5: No
+  D3DFMT_A4R4G4B4: Yes
+  D3DFMT_P8      : No
+  D3DFMT_DXT1    : Yes
+  D3DFMT_DXT3    : Yes
+  D3DFMT_DXT5    : Yes
+
+
+Device reset succeeded
+
+Device successfully created
+
+  Device information
+  --------------------------------------------------
+  Device   : Intel(R) HD Graphics
+  Driver   : igdumdim32.dll version 10.18.0010.5161
+  Vendor ID: 0x8086
+  Device ID: 0x152
+
+  Device capabilities
+  --------------------------------------------------
+  Current mode           : 1024x768 [D3DFMT_A8R8G8B8] (fullscreen)
+  Max texture size       : 8192x8192
+  MaxSimultaneousTextures: 8
+  MaxTextureBlendStages  : 8
+  MaxPrimitiveCount      : 8388607
+  MaxVertexIndex         : 16777215
+  MaxStreams             : 16
+  MaxStreamStride        : 255
+  VertexShaderVersion    : 3.0
+  MaxVertexShaderConst   : 256
+  PixelShaderVersion     : 3.0
+
+  Texture formats
+  --------------------------------------------------
+  D3DFMT_A8R8G8B8: Yes
+  D3DFMT_X8R8G8B8: Yes
+  D3DFMT_R5G6B5  : Yes
+  D3DFMT_A1R5G5B5: Yes
+  D3DFMT_X1R5G5B5: No
+  D3DFMT_A4R4G4B4: Yes
+  D3DFMT_P8      : No
+  D3DFMT_DXT1    : Yes
+  D3DFMT_DXT3    : Yes
+  D3DFMT_DXT5    : Yes
+
+
+Device reset succeeded
+
+Device successfully created
+
+  Device information
+  --------------------------------------------------
+  Device   : Intel(R) HD Graphics
+  Driver   : igdumdim32.dll version 10.18.0010.5161
+  Vendor ID: 0x8086
+  Device ID: 0x152
+
+  Device capabilities
+  --------------------------------------------------
+  Current mode           : 1024x768 [D3DFMT_A8R8G8B8] (fullscreen)
+  Max texture size       : 8192x8192
+  MaxSimultaneousTextures: 8
+  MaxTextureBlendStages  : 8
+  MaxPrimitiveCount      : 8388607
+  MaxVertexIndex         : 16777215
+  MaxStreams             : 16
+  MaxStreamStride        : 255
+  VertexShaderVersion    : 3.0
+  MaxVertexShaderConst   : 256
+  PixelShaderVersion     : 3.0
+
+  Texture formats
+  --------------------------------------------------
+  D3DFMT_A8R8G8B8: Yes
+  D3DFMT_X8R8G8B8: Yes
+  D3DFMT_R5G6B5  : Yes
+  D3DFMT_A1R5G5B5: Yes
+  D3DFMT_X1R5G5B5: No
+  D3DFMT_A4R4G4B4: Yes
+  D3DFMT_P8      : No
+  D3DFMT_DXT1    : Yes
+  D3DFMT_DXT3    : Yes
+  D3DFMT_DXT5    : Yes
+
+
+Device reset succeeded
+
+Device successfully created
+
+  Device information
+  --------------------------------------------------
+  Device   : Intel(R) HD Graphics
+  Driver   : igdumdim32.dll version 10.18.0010.5161
+  Vendor ID: 0x8086
+  Device ID: 0x152
+
+  Device capabilities
+  --------------------------------------------------
+  Current mode           : 1024x768 [D3DFMT_A8R8G8B8] (fullscreen)
+  Max texture size       : 8192x8192
+  MaxSimultaneousTextures: 8
+  MaxTextureBlendStages  : 8
+  MaxPrimitiveCount      : 8388607
+  MaxVertexIndex         : 16777215
+  MaxStreams             : 16
+  MaxStreamStride        : 255
+  VertexShaderVersion    : 3.0
+  MaxVertexShaderConst   : 256
+  PixelShaderVersion     : 3.0
+
+  Texture formats
+  --------------------------------------------------
+  D3DFMT_A8R8G8B8: Yes
+  D3DFMT_X8R8G8B8: Yes
+  D3DFMT_R5G6B5  : Yes
+  D3DFMT_A1R5G5B5: Yes
+  D3DFMT_X1R5G5B5: No
+  D3DFMT_A4R4G4B4: Yes
+  D3DFMT_P8      : No
+  D3DFMT_DXT1    : Yes
+  D3DFMT_DXT3    : Yes
+  D3DFMT_DXT5    : Yes
+
+
+Device reset succeeded
+

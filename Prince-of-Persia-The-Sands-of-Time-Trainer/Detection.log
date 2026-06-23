@@ -1,0 +1,10 @@
+[8:59:29] -Detection::Application- Clearing result database.
+[8:59:29] -Detection::Application- Running tests...
+[8:59:31] -Detection::TestManager- Test(ID=1287583804 Name=DX Version Test Version=1) ran with success.
+[8:59:31] -Detection::TestManager- Test(ID=700232323 Name=DX Misc Test Version=1) ran with success.
+[8:59:31] -Detection::TestManager- Test(ID=786168059 Name=Base System Test Version=1) ran with success.
+[8:59:31] -Detection::TestManager- Test(ID=1435856113 Name=CPU Test Version=1) ran with success.
+[8:59:31] -Detection::Application- Finished running tests.
+[8:59:31] -Detection::Application- Interpreting results...
+[8:59:40] -Detection::InterpreterManager- Interpreter(ID=1 Name=Launcher Interpreter Desc Version=1) ran with success.
+[8:59:40] -Detection::Application- Finished interpretation.

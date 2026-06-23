@@ -1,0 +1,11 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia The Sands of Time]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Prince of Persia The Sands of Time\1.00.181]
+"Product_Path"=".\\"
+"Product_Executable"="PrinceOfPersia.exe"
+"Product_Language"="9"
+"Product_Release"="Retail EMEA"

@@ -1,0 +1,361 @@
+directx/d3dadapter/0/caps/adapterordinal	0
+directx/d3dadapter/0/caps/adapterordinalingroup	0
+directx/d3dadapter/0/caps/alphacmpcaps	255
+directx/d3dadapter/0/caps/caps	131072
+directx/d3dadapter/0/caps/caps2	3758227456
+directx/d3dadapter/0/caps/caps3	800
+directx/d3dadapter/0/caps/cubetexturefiltercaps	117638912
+directx/d3dadapter/0/caps/cursorcaps	1
+directx/d3dadapter/0/caps/decltypes	895
+directx/d3dadapter/0/caps/destblendcaps	10239
+directx/d3dadapter/0/caps/devcaps	1683024
+directx/d3dadapter/0/caps/devcaps2	81
+directx/d3dadapter/0/caps/devicetype	1
+directx/d3dadapter/0/caps/extentsadjust	0
+directx/d3dadapter/0/caps/fvfcaps	1572872
+directx/d3dadapter/0/caps/guardbandbottom	16384
+directx/d3dadapter/0/caps/guardbandleft	-16384
+directx/d3dadapter/0/caps/guardbandright	16384
+directx/d3dadapter/0/caps/guardbandtop	-16384
+directx/d3dadapter/0/caps/linecaps	31
+directx/d3dadapter/0/caps/masteradapterordinal	0
+directx/d3dadapter/0/caps/maxactivelights	8
+directx/d3dadapter/0/caps/maxanisotropy	16
+directx/d3dadapter/0/caps/maxpixelshader30instructionslots	32768
+directx/d3dadapter/0/caps/maxpointsize	256
+directx/d3dadapter/0/caps/maxprimitivecount	8388607
+directx/d3dadapter/0/caps/maxpshaderinstructionsexecuted	4294967295
+directx/d3dadapter/0/caps/maxsimultaneoustextures	8
+directx/d3dadapter/0/caps/maxstreams	16
+directx/d3dadapter/0/caps/maxstreamstride	255
+directx/d3dadapter/0/caps/maxtextureaspectratio	8192
+directx/d3dadapter/0/caps/maxtextureblendstages	8
+directx/d3dadapter/0/caps/maxtextureheight	8192
+directx/d3dadapter/0/caps/maxtexturerepeat	8192
+directx/d3dadapter/0/caps/maxtexturewidth	8192
+directx/d3dadapter/0/caps/maxuserclipplanes	6
+directx/d3dadapter/0/caps/maxvertexblendmatrices	4
+directx/d3dadapter/0/caps/maxvertexblendmatrixindex	0
+directx/d3dadapter/0/caps/maxvertexindex	16777215
+directx/d3dadapter/0/caps/maxvertexshader30instructionslots	32768
+directx/d3dadapter/0/caps/maxvertexshaderconst	256
+directx/d3dadapter/0/caps/maxvertexw	1e+010
+directx/d3dadapter/0/caps/maxvolumeextent	2048
+directx/d3dadapter/0/caps/maxvshaderinstructionsexecuted	4294967295
+directx/d3dadapter/0/caps/numberofadaptersingroup	1
+directx/d3dadapter/0/caps/numsimultaneousrts	4
+directx/d3dadapter/0/caps/pixelshader1xmaxvalue	3.402823466e+038
+directx/d3dadapter/0/caps/pixelshaderversion	4294902528
+directx/d3dadapter/0/caps/presentationintervals	2147483663
+directx/d3dadapter/0/caps/primitivemisccaps	3132658
+directx/d3dadapter/0/caps/rastercaps	259219857
+directx/d3dadapter/0/caps/shadecaps	541192
+directx/d3dadapter/0/caps/srcblendcaps	16383
+directx/d3dadapter/0/caps/stencilcaps	511
+directx/d3dadapter/0/caps/stretchrectfiltercaps	50332416
+directx/d3dadapter/0/caps/textureaddresscaps	63
+directx/d3dadapter/0/caps/texturecaps	2223173
+directx/d3dadapter/0/caps/texturefiltercaps	117638912
+directx/d3dadapter/0/caps/textureopcaps	67108863
+directx/d3dadapter/0/caps/vertexprocessingcaps	379
+directx/d3dadapter/0/caps/vertexshaderversion	4294836992
+directx/d3dadapter/0/caps/vertextexturefiltercaps	50529024
+directx/d3dadapter/0/caps/volumetextureaddresscaps	63
+directx/d3dadapter/0/caps/volumetexturefiltercaps	117638912
+directx/d3dadapter/0/caps/zcmpcaps	255
+directx/d3dadapter/0/checkdepthstencilmatch/1/22/21/71	false
+directx/d3dadapter/0/checkdepthstencilmatch/1/22/21/75	true
+directx/d3dadapter/0/checkdepthstencilmatch/1/22/21/77	true
+directx/d3dadapter/0/checkdepthstencilmatch/1/22/21/80	true
+directx/d3dadapter/0/checkdepthstencilmatch/1/23/23/71	false
+directx/d3dadapter/0/checkdepthstencilmatch/1/23/23/75	true
+directx/d3dadapter/0/checkdepthstencilmatch/1/23/23/77	true
+directx/d3dadapter/0/checkdepthstencilmatch/1/23/23/80	true
+directx/d3dadapter/0/checkdeviceformat/1/22/0/3/21	true
+directx/d3dadapter/0/checkdeviceformat/1/22/0/3/22	true
+directx/d3dadapter/0/checkdeviceformat/1/22/0/3/23	true
+directx/d3dadapter/0/checkdeviceformat/1/22/0/3/24	false
+directx/d3dadapter/0/checkdeviceformat/1/22/0/3/25	true
+directx/d3dadapter/0/checkdeviceformat/1/22/0/3/41	false
+directx/d3dadapter/0/checkdeviceformat/1/22/0/3/827611204	true
+directx/d3dadapter/0/checkdeviceformat/1/22/0/3/861165636	true
+directx/d3dadapter/0/checkdeviceformat/1/22/0/3/894720068	true
+directx/d3dadapter/0/checkdeviceformat/1/22/1/3/21	true
+directx/d3dadapter/0/checkdeviceformat/1/22/1/3/23	true
+directx/d3dadapter/0/checkdeviceformat/1/22/2/1/71	false
+directx/d3dadapter/0/checkdeviceformat/1/22/2/1/75	true
+directx/d3dadapter/0/checkdeviceformat/1/22/2/1/77	true
+directx/d3dadapter/0/checkdeviceformat/1/22/2/1/80	true
+directx/d3dadapter/0/checkdeviceformat/1/23/0/3/21	true
+directx/d3dadapter/0/checkdeviceformat/1/23/0/3/22	true
+directx/d3dadapter/0/checkdeviceformat/1/23/0/3/23	true
+directx/d3dadapter/0/checkdeviceformat/1/23/0/3/24	false
+directx/d3dadapter/0/checkdeviceformat/1/23/0/3/25	true
+directx/d3dadapter/0/checkdeviceformat/1/23/0/3/41	false
+directx/d3dadapter/0/checkdeviceformat/1/23/0/3/827611204	true
+directx/d3dadapter/0/checkdeviceformat/1/23/0/3/861165636	true
+directx/d3dadapter/0/checkdeviceformat/1/23/0/3/894720068	true
+directx/d3dadapter/0/checkdeviceformat/1/23/1/3/21	true
+directx/d3dadapter/0/checkdeviceformat/1/23/1/3/23	true
+directx/d3dadapter/0/checkdeviceformat/1/23/2/1/71	false
+directx/d3dadapter/0/checkdeviceformat/1/23/2/1/75	true
+directx/d3dadapter/0/checkdeviceformat/1/23/2/1/77	true
+directx/d3dadapter/0/checkdeviceformat/1/23/2/1/80	true
+directx/d3dadapter/0/checkdevicetype/1/22/21	true
+directx/d3dadapter/0/checkdevicetype/1/23/23	true
+directx/d3dadapter/0/description	Intel(R) HD Graphics
+directx/d3dadapter/0/deviceid	338
+directx/d3dadapter/0/driver	igdumdim32.dll
+directx/d3dadapter/0/driverversionhighpart	655378
+directx/d3dadapter/0/driverversionlowpart	660521
+directx/d3dadapter/0/modes	320x200x16 60Hz
+directx/d3dadapter/0/modes	320x240x16 60Hz
+directx/d3dadapter/0/modes	400x300x16 60Hz
+directx/d3dadapter/0/modes	512x384x16 60Hz
+directx/d3dadapter/0/modes	640x480x16 59Hz
+directx/d3dadapter/0/modes	640x480x16 60Hz
+directx/d3dadapter/0/modes	640x480x16 75Hz
+directx/d3dadapter/0/modes	800x600x16 60Hz
+directx/d3dadapter/0/modes	800x600x16 75Hz
+directx/d3dadapter/0/modes	848x480x16 60Hz
+directx/d3dadapter/0/modes	1024x768x16 60Hz
+directx/d3dadapter/0/modes	1024x768x16 75Hz
+directx/d3dadapter/0/modes	1152x864x16 60Hz
+directx/d3dadapter/0/modes	1152x864x16 75Hz
+directx/d3dadapter/0/modes	1280x1024x16 60Hz
+directx/d3dadapter/0/modes	1280x1024x16 75Hz
+directx/d3dadapter/0/modes	1366x768x16 60Hz
+directx/d3dadapter/0/modes	1920x1080x16 60Hz
+directx/d3dadapter/0/modes	320x200x32 60Hz
+directx/d3dadapter/0/modes	320x240x32 60Hz
+directx/d3dadapter/0/modes	400x300x32 60Hz
+directx/d3dadapter/0/modes	512x384x32 60Hz
+directx/d3dadapter/0/modes	640x480x32 59Hz
+directx/d3dadapter/0/modes	640x480x32 60Hz
+directx/d3dadapter/0/modes	640x480x32 75Hz
+directx/d3dadapter/0/modes	800x600x32 60Hz
+directx/d3dadapter/0/modes	800x600x32 75Hz
+directx/d3dadapter/0/modes	848x480x32 60Hz
+directx/d3dadapter/0/modes	1024x768x32 60Hz
+directx/d3dadapter/0/modes	1024x768x32 75Hz
+directx/d3dadapter/0/modes	1152x864x32 60Hz
+directx/d3dadapter/0/modes	1152x864x32 75Hz
+directx/d3dadapter/0/modes	1280x1024x32 60Hz
+directx/d3dadapter/0/modes	1280x1024x32 75Hz
+directx/d3dadapter/0/modes	1366x768x32 60Hz
+directx/d3dadapter/0/modes	1920x1080x32 60Hz
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	16
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/bpp	32
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	23
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/format	22
+directx/d3dadapter/0/modes/height	200
+directx/d3dadapter/0/modes/height	240
+directx/d3dadapter/0/modes/height	300
+directx/d3dadapter/0/modes/height	384
+directx/d3dadapter/0/modes/height	480
+directx/d3dadapter/0/modes/height	480
+directx/d3dadapter/0/modes/height	480
+directx/d3dadapter/0/modes/height	600
+directx/d3dadapter/0/modes/height	600
+directx/d3dadapter/0/modes/height	480
+directx/d3dadapter/0/modes/height	768
+directx/d3dadapter/0/modes/height	768
+directx/d3dadapter/0/modes/height	864
+directx/d3dadapter/0/modes/height	864
+directx/d3dadapter/0/modes/height	1024
+directx/d3dadapter/0/modes/height	1024
+directx/d3dadapter/0/modes/height	768
+directx/d3dadapter/0/modes/height	1080
+directx/d3dadapter/0/modes/height	200
+directx/d3dadapter/0/modes/height	240
+directx/d3dadapter/0/modes/height	300
+directx/d3dadapter/0/modes/height	384
+directx/d3dadapter/0/modes/height	480
+directx/d3dadapter/0/modes/height	480
+directx/d3dadapter/0/modes/height	480
+directx/d3dadapter/0/modes/height	600
+directx/d3dadapter/0/modes/height	600
+directx/d3dadapter/0/modes/height	480
+directx/d3dadapter/0/modes/height	768
+directx/d3dadapter/0/modes/height	768
+directx/d3dadapter/0/modes/height	864
+directx/d3dadapter/0/modes/height	864
+directx/d3dadapter/0/modes/height	1024
+directx/d3dadapter/0/modes/height	1024
+directx/d3dadapter/0/modes/height	768
+directx/d3dadapter/0/modes/height	1080
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	59
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	75
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	75
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	75
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	75
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	75
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	59
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	75
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	75
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	75
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	75
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	75
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/refreshrate	60
+directx/d3dadapter/0/modes/width	320
+directx/d3dadapter/0/modes/width	320
+directx/d3dadapter/0/modes/width	400
+directx/d3dadapter/0/modes/width	512
+directx/d3dadapter/0/modes/width	640
+directx/d3dadapter/0/modes/width	640
+directx/d3dadapter/0/modes/width	640
+directx/d3dadapter/0/modes/width	800
+directx/d3dadapter/0/modes/width	800
+directx/d3dadapter/0/modes/width	848
+directx/d3dadapter/0/modes/width	1024
+directx/d3dadapter/0/modes/width	1024
+directx/d3dadapter/0/modes/width	1152
+directx/d3dadapter/0/modes/width	1152
+directx/d3dadapter/0/modes/width	1280
+directx/d3dadapter/0/modes/width	1280
+directx/d3dadapter/0/modes/width	1366
+directx/d3dadapter/0/modes/width	1920
+directx/d3dadapter/0/modes/width	320
+directx/d3dadapter/0/modes/width	320
+directx/d3dadapter/0/modes/width	400
+directx/d3dadapter/0/modes/width	512
+directx/d3dadapter/0/modes/width	640
+directx/d3dadapter/0/modes/width	640
+directx/d3dadapter/0/modes/width	640
+directx/d3dadapter/0/modes/width	800
+directx/d3dadapter/0/modes/width	800
+directx/d3dadapter/0/modes/width	848
+directx/d3dadapter/0/modes/width	1024
+directx/d3dadapter/0/modes/width	1024
+directx/d3dadapter/0/modes/width	1152
+directx/d3dadapter/0/modes/width	1152
+directx/d3dadapter/0/modes/width	1280
+directx/d3dadapter/0/modes/width	1280
+directx/d3dadapter/0/modes/width	1366
+directx/d3dadapter/0/modes/width	1920
+directx/d3dadapter/0/revision	9
+directx/d3dadapter/0/subsysid	92606504
+directx/d3dadapter/0/vendorid	32902
+directx/d3dadapter/0/whqllevel	0
+directx/installed	true
+directx/numd3dadapters	1
+directx/version	12.0
+directx/version/letter	 
+directx/version/major	12
+directx/version/minor	0
+system/cpu/family	6
+system/cpu/frequency	2893
+system/cpu/id	10
+system/cpu/model	10
+system/cpu/modelname	INTEL Pentium-III
+system/cpu/nb	4
+system/cpu/stepping	9
+system/cpu/vendorid	GenuineIntel
+system/mem/physical	2147483647
+system/mem/virtual	2147352576
+system/name	DESKTOP-T82OCR3
+system/os	Pro  (Build 9200)
+system/os/build	9200
+system/os/csdversion	
+system/os/id	8
+system/os/major	6
+system/os/minor	2
+system/os/platformid	2
+system/os/type	1
+system/user	rajai
+
+--------- BEGIN User Errors : -----------
+Your videocard « Intel(R) HD Graphics » is not supported.
+
+--------- END User Errors : -----------

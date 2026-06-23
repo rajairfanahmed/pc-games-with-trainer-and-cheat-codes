@@ -1,0 +1,12 @@
+# Ignore everything at root level by default
+/*
+
+# Allow repo files
+!.gitignore
+!.gitattributes
+!README.md
+
+# ===== ALLOWED GAME FOLDERS =====
+# Uncomment or add new game folders as they are ready for upload
+
+!Prince-of-Persia-The-Sands-of-Time-Trainer/
