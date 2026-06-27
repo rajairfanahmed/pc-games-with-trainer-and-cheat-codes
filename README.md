@@ -1,20 +1,21 @@
 # 🎮 PC Games with Trainer and Cheat Codes
 
-A curated collection of **PC game trainers, cheat codes, and cheat engine tables** for classic and retro games. Each game folder includes the full game along with working trainers, cheat files, or cheat engine tables to enhance your gameplay experience.
+A curated collection of **PC game trainers, cheat codes, and cheat engine tables** for classic and retro games. Each game folder includes working trainers, cheat files, or cheat engine tables to enhance your gameplay experience.
 
 ---
 
 ## 📋 Games List
 
-| # | Game | Type | Trainer/Cheat Info | Status |
-|---|------|------|--------------------|--------|
-| 1 | [Prince of Persia: The Sands of Time](#-prince-of-persia-the-sands-of-time) | Trainer | +18 Options by mul0 | ✅ Available |
+| # | Game | Year | Type | Cheat Info | Status |
+|---|------|------|------|------------|--------|
+| 1 | [Prince of Persia: The Sands of Time](#1--prince-of-persia-the-sands-of-time) | 2003 | Trainer | +18 Options by mul0 | ✅ Available |
+| 2 | [X2: Wolverine's Revenge](#2--x2-wolverines-revenge-2003) | 2003 | Cheat Engine | Health Freeze (.CT Table) + Updated Controls | ✅ Available |
 
 > 🕹️ **More games coming soon!** — GTA Vice City, Medal of Honor, Aladdin, and more.
 
 ---
 
-## 🏰 Prince of Persia: The Sands of Time
+## 1. 🏰 Prince of Persia: The Sands of Time
 
 📁 **Folder:** `Prince-of-Persia-The-Sands-of-Time-Trainer/`
 
@@ -76,6 +77,59 @@ A curated collection of **PC game trainers, cheat codes, and cheat engine tables
 
 ---
 
+## 2. 🐺 X2: Wolverine's Revenge (2003)
+
+📁 **Folder:** `X2-Wolverines-Revenge-2003-Cheat-Engine/`
+
+### Cheat Engine Table Info
+
+| Detail | Value |
+|--------|-------|
+| **Cheat File** | `Wolverine Revenge.CT` (Cheat Engine Table) |
+| **Config File** | `Wolvie.INI` (Game Settings & Controls) |
+| **Cheat Type** | Cheat Engine (.CT) |
+| **Target Process** | Wolvie.exe |
+| **Feature** | Freeze Health (Unlimited Health) |
+| **Memory Address** | `Wolvie.exe+2C2DC0` (Float) |
+| **Toggle Key** | `Numpad 1` — Activate / Deactivate |
+
+### Cheat Engine — How to Use
+
+1. Download and install **[Cheat Engine](https://www.cheatengine.org/)**
+2. Start the game (`Wolvie.exe`)
+3. Open Cheat Engine and load the `Wolverine Revenge.CT` file
+4. In Cheat Engine, click **"Select a process"** and choose `Wolvie.exe`
+5. Press `Numpad 1` to **activate/deactivate** the Health freeze
+6. When activated, your health will stay frozen — you won't take damage!
+
+### 🎮 Updated Controls (Mouse + Keyboard)
+
+This game has been configured with **modern updated controls** for a better experience using keyboard and mouse.
+
+#### 🖱️ Mouse Controls
+
+| Button | Action |
+|--------|--------|
+| **Left Click** | Punch |
+| **Right Click** | Crouch (hold) |
+| **Middle Click** | Camera |
+
+#### ⌨️ Keyboard Controls (Left Hand near WASD)
+
+| Key | Action | Finger |
+|-----|--------|--------|
+| `W` / `A` / `S` / `D` | Movement | Index / Middle / Ring |
+| `Space` | Jump | Thumb |
+| `Left Shift` | Stealth (hold) | Pinky |
+| `Left Ctrl` | Crouch (backup) | Pinky |
+| `Q` | Senses (hold) | Ring finger |
+| `E` | Action | Index finger |
+| `F` | Kick | Index finger |
+| `C` | Claws | Index finger |
+| `R` | Camera Reset | Index finger |
+
+---
+
 ## 📁 Repository Structure
 
 ```
@@ -85,6 +139,9 @@ pc-games-with-trainer-and-cheat-codes/
 │   ├── POP.EXE (Game)
 │   ├── Prince of Persia The Sands of Time (+18) {mul0} [v1.0.0.181].exe (Trainer)
 │   └── ...
+├── X2-Wolverines-Revenge-2003-Cheat-Engine/
+│   ├── Wolverine Revenge.CT (Cheat Engine Table)
+│   └── Wolvie.INI (Game Settings & Controls)
 └── (More games coming soon)
 ```
 
@@ -97,6 +154,7 @@ Each game folder may contain one or more of the following:
 - 🎯 **Trainers** — Standalone tools that modify game memory for cheats like unlimited health, god mode, etc.
 - 🔧 **Cheat Engine Tables** — `.CT` files for use with Cheat Engine software
 - 📝 **Cheat Codes** — Text files or guides with in-game cheat codes
+- 🎮 **Updated Controls** — Modern keyboard + mouse control mappings for classic games
 - 📖 **Game Manuals** — Original game documentation and guides
 
 ---
@@ -109,4 +167,4 @@ This repository is for **educational and personal use only**. All game trainers 
 
 ## 🏷️ Keywords
 
-`game-trainer` `cheat-codes` `cheat-engine` `pc-games` `game-cheats` `prince-of-persia` `sands-of-time` `retro-games` `classic-games` `god-mode` `unlimited-health` `trainer-download` `pc-game-trainer` `game-hack` `cheat-table`
+`game-trainer` `cheat-codes` `cheat-engine` `cheat-table` `pc-games` `game-cheats` `prince-of-persia` `sands-of-time` `wolverine-revenge` `x2-wolverine` `retro-games` `classic-games` `god-mode` `unlimited-health` `trainer-download` `pc-game-trainer` `game-hack` `wolverine-cheat` `game-controls`
