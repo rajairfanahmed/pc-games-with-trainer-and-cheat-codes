@@ -81,26 +81,38 @@ A curated collection of **PC game trainers, cheat codes, and cheat engine tables
 
 📁 **Folder:** `X2-Wolverines-Revenge-2003-Cheat-Engine/`
 
-### Cheat Engine Table Info
+### X2: Wolverine's Revenge - Static Memory Table
 
-| Detail | Value |
-|--------|-------|
-| **Cheat File** | `Wolverine Revenge.CT` (Cheat Engine Table) |
-| **Config File** | `Wolvie.INI` (Game Settings & Controls) |
-| **Cheat Type** | Cheat Engine (.CT) |
-| **Target Process** | Wolvie.exe |
-| **Feature** | Freeze Health (Unlimited Health) |
-| **Memory Address** | `Wolvie.exe+2C2DC0` (Float) |
-| **Toggle Key** | `Numpad 1` — Activate / Deactivate |
+A robust, crash-proof Cheat Engine memory table (`.CT`) for *X2: Wolverine's Revenge* (PC). This table isolates the global static pointer for the player entity to provide a permanent health freeze (God Mode) that survives level transitions and game restarts.
 
-### Cheat Engine — How to Use
+#### Features
+* **Permanent God Mode:** Locks the player's health to a maximum value, preventing all incoming damage.
+* **Engine-Stable Implementation:** Utilizes a verified global static pointer rather than an Array of Bytes (AOB) injection. This prevents execution race conditions, GUI desynchronization, and level-transition crashes.
+* **Plug and Play:** No manual address updates required upon restarting the game.
 
-1. Download and install **[Cheat Engine](https://www.cheatengine.org/)**
-2. Start the game (`Wolvie.exe`)
-3. Open Cheat Engine and load the `Wolverine Revenge.CT` file
-4. In Cheat Engine, click **"Select a process"** and choose `Wolvie.exe`
-5. Press `Numpad 1` to **activate/deactivate** the Health freeze
-6. When activated, your health will stay frozen — you won't take damage!
+#### Technical Architecture
+Game engines dynamically allocate memory (Heap) for player entities upon loading a level, causing raw memory addresses to change constantly. This table bridges the dynamic allocation by tracing back to the game's static data segment.
+
+* **Static Root / Base Pointer:** `Wolvie.exe+34AA54`
+* **Health Offset:** `C0` (Hexadecimal)
+* **Value Type:** `Float`
+
+The pointer mathematically resolves the dynamic memory path at runtime: `[Wolvie.exe+34AA54] + C0 = Current Dynamic Health Address`. 
+
+#### Prerequisites
+* **Game:** X2: Wolverine's Revenge (Windows PC)
+* **Software:** [Cheat Engine](https://cheatengine.org/) (Version 7.0 or higher recommended)
+
+#### Installation and Usage
+1. Download the `Wolverine_GodMode.CT` file from this repository.
+2. Launch *X2: Wolverine's Revenge* and load into a level.
+3. Open Cheat Engine.
+4. Click the **Monitor Icon** (Select a process to open) in the top-left corner.
+5. Select the `Wolvie.exe` process from the list and click **Open**.
+6. Drag and drop the downloaded `.CT` file into the bottom pane of Cheat Engine, or go to **File > Load** and select the file.
+7. Check the box under the **Active** column next to the pointer to freeze your health.
+
+> **Note on Level Transitions:** To ensure maximum stability and prevent null-reference exceptions, it is recommended to uncheck the active box during loading screens and re-check it once the next level has fully loaded.
 
 ### 🎮 Updated Controls (Mouse + Keyboard)
 
@@ -140,7 +152,7 @@ pc-games-with-trainer-and-cheat-codes/
 │   ├── Prince of Persia The Sands of Time (+18) {mul0} [v1.0.0.181].exe (Trainer)
 │   └── ...
 ├── X2-Wolverines-Revenge-2003-Cheat-Engine/
-│   ├── Wolverine Revenge.CT (Cheat Engine Table)
+│   ├── Wolverine_GodMode.CT (Cheat Engine Table)
 │   └── Wolvie.INI (Game Settings & Controls)
 └── (More games coming soon)
 ```
