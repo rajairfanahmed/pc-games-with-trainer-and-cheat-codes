@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="52">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Loaded Ammo"</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+alloc(newmem,2048)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+// 1. Comment out the ammo write so the decreased bullet count is never saved
+// mov [esi+0C],eax
+
+// 2. This instruction MUST execute to maintain engine stability
+mov eax,[edi]
+
+exit:
+jmp returnhere
+
+OperationFlashpoint.exe+164CA1:
+jmp newmem
+returnhere:
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+OperationFlashpoint.exe+164CA1:
+db 89 46 0C 8B 07
+//mov [esi+0C],eax
+//mov eax,[edi]
+</AssemblerScript>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

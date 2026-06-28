@@ -1,0 +1,161 @@
+'Op.Flashpoint/Red Hammer/Resistance' +1 trainer. Copyright (c) By CyberMan, V 1.07, 02.07.2002
+===============================================================================================
+
+Features
+--------
+
+	1. God mode for player (DOESN'T WORK WITH VETERAN SETTINGS! DOESN'T WORK
+	   IN THE MULTIPLAYER!)
+
+	Supported game versions: V 1.40, V 1.42, V 1.46 and V 1.75, but should
+	run well (but untested) on V 1.00, V 1.10, V 1.20, V 1.27, V 1.30, V 1.45
+	and theoretically on any other and/or uncoming versions too. All versions
+	may be in any language.
+
+Usage
+-----
+
+	Copy this trainer (CM-OFPTR.EXE) into game directory and run it. Click
+on option to do it. If you have questions, first try to read instructions it the
+trainer itself.
+
+Requirements
+------------
+
+OS:	- Windows 95(any), Windows 98(any) or Windows ME
+	- Windows NT 4.0 with Service Pack 4 or newer installed
+	- Windows 2000(any, lastest Service Pack recommended)
+	- Windows XP(any)
+
+	Also needed the 'Operation Flashpoint/Red Hammer/Resistance' game and the
+trainer itself of course...
+
+In-memory trainer note
+----------------------
+
+	This trainer uses in-memory patching cheme to do it's work, so sometimes
+it's can't work because the version of game is different. The most common reason
+for that is a different release of the game (ex. US, UK, German, Russian or
+whatever) or the patch/fix installed. Now i'll try to supply some information
+about release and version of game for your better orientation into a huge number
+of trainers. If you have game release different then described by me - please
+contact me via e-mail and if i still not have this release, i can request some
+files from game to create adapted trainer for your version. DO NOT SEND FILES
+IMMIDEATLY! JUST ASK ME FOR IT! Anyway i'll say 'sorry' for all people that fail
+they enjoy of game playing for the reason of trainer failure... Sorry!
+
+LICENSE
+-------
+
+THIS CRACKWARE CAN NOT BE USED FOR COMMERCIAL PURPOSES, ESPECIALLY FOR MAKEING
+PIRATED VERSIONS OF GAMES. THE ONLY APPLIED USAGE IS FOR EASYFICATION OF GAME
+PLAYING PROCESS. DISTRIBUTION OF THIS CRACKWARE IN ANY FORM ACROSS NETWORKS OR
+AT DIGITAL MEDIA SUCH AS CDROM, DVD OR WHATEVER, IS ILLEGAL WITHOUT PERMISSION
+FROM AUTHOR. NOTE THAT THE MAKEING OF CRACKWARE IS NOT ILLEGAL AND AUTHOR WILL
+NOT BE RESPONSIBLE FOR ANY ILLEGAL USAGE OF THIS CRACKWARE. THIS CRACKWARE IS
+DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE
+AT YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF
+PROFITS OR ANY OTHER KIND OF LOSS WHILE USING THIS CRACKWARE. IF YOU DO NOT
+AGREE WITH THIS LICENCE - DO NOT USE THIS CRACKWARE! AND LONG LIVE THE GAME
+HACKERS! AMEN! :)
+
+Internet sites
+--------------
+
+	The current list of internet sites that have permission to distribute
+this crackware as well as official supporting of previous and future crackware
+releases and crackware updates:
+
+- Author's projects support page: http://cyberman.agava.ru
+
+- Other sites:
+http://cheats.bonusweb.cz	Cheaty.BonusWeb.cz
+http://dlh.net			DLH.Net
+http://foxlicos.agava.ru	The planet of codes
+http://gameguru.box.sk		Gameguru
+http://www.actiontrip.com	ActionTrip
+http://www.ag.ru/cheats		Absolute Games cheats archive
+http://www.ascat.de		@scat.de
+http://www.avault.com/cheats	Adrenaline Vault cheats archive
+http://www.cheaten.de/		Cheaten.de
+http://www.cheatersheaven.de	Cheaters Heaven
+http://www.cheathappens.com	Cheat Happens
+http://www.cheating.de		Cheating.de
+http://www.cheatplanet.com	Cheat Planet
+http://www.cheats.ru		Cheats.RU
+http://www.cheatstation.com	Cheat Station
+http://www.gamexperts.com	Game Experts
+http://www.gamersaddiction.net	Gamer's Addiction
+http://www.gamersnews.com	Gamer's News
+http://www.megagames.com	MegaGames
+http://www.planetcheats.de	PlanetCheats.de
+http://www.spielewiese.de	SpieleWiese.de
+http://www.timsvault.com	Tim's Vault
+http://www.trainerscity.com	Trainers City (also http://www.cheatscity.fr.st)
+http://www.weltdercheats.de	World of Cheats
+http://www.xcheater.com		XCheater
+
+Other info
+----------
+
+Crack difficulty: VERY Hard
+Time of cracking: ~20 hours
+Tools used: Far, Debug and own Brain ;)
+
+Additionaly:
+I am very pleased to work with such great piece of code and want to salute to
+Bohemia Interactive Studio coders for it. Great job guys! I learn too much and
+achieve unprecedented experience while making this trainer. And of course I am
+very pleased about my trainer is ONLY trainer in the whole world (and this is
+about the half year of game availability)!
+
+Created with:
+Process Memory Hacking Engine, Copyright (c) By CyberMan, V 4.21, 04.10.2001
+
+Author contact information
+--------------------------
+
+1. Author contact e-mail: cyberman@ag.ru
+2. Author's projects support page: http://cyberman.agava.ru. If your look for
+   trainer update - you know where you can find it ;)
+3. IF YOU WANT ASK ME ABOUT SOMETHING _PLEASE_ _CAREFULLY_ READ THE FOLLOWING
+   INFORMATION!
+4. If you ask me something about my trainers/cheats PLEASE SUPPLY THE FOLLOWING
+   INFORMATION:
+   - Game name for that trainer/cheat is;
+   - Game release. This means US/UK/French/German/Italy/etc. game version.
+     Note, that this is NOT the game language. For example the language may be
+     English, but the release is for the Middle East (for ex., of course). If
+     the game is pir8 version, please define the group what releases it and
+     what release (RIP/Full CD ISO) you use;
+   - Game language;
+   - Game version;
+   - Trainer version;
+   - Optional for trainers but REQUIRED for cheats: where you get trainer or
+     cheat? This is required because some sites incorrectly defines the cheat
+     or the author and I will contact with them for information fixing
+   WITHOUT THIS INFORMATION SOMETIMES I CAN'T SOLVE YOUR PROBLEMS TOTALLY!
+   PLEASE SEND IT!
+4. I can't reply to every e-mail! People sends me hundreds of e-mails
+   sometimes! I WILL ignore the most of the messages! No, I am not a collapsed
+   person! The reasons of such unfriendly behavior is described below.
+5. Please DO NOT ask me about generic computers-related questions alike 'where
+   the "game directory" is located?' or 'how I can unzip the trainer'! The
+   crackware is the advanced form of the software and its usage REQUIRES the
+   basic computers-related knowledge. Just find and read a good computers-
+   related book.
+6. Please DO NOT send e-mails with "please add the 'blahblah' feature into your
+   trainer" or "make trainer for 'blablah' game". If I am doesn't make this
+   feature I am really have some mention about this. And of course I observe
+   all crackware scene, so if I find new trainer with new and interesting
+   feature, I will add this feature to my trainer (Of course, if I have enough
+   time for this).
+7. Please DO NOT send e-mails with "thanks for the good trainer"! Yes, I am
+   very glad to hear such good words about my work, but please - save my time!
+8. If I can't resolve your problem I will ignore your e-mail. Not totally, but
+   I doesn't reply anything. This is just means - "Thanks for the information,
+   but, sorry, I can't help you now. Maybe in time I can find solution for your
+   problem. We are lives in very non-ideal world. Sorry again and good luck!".
+
+I hope you enjoy this... :)
+							-= CyberMan =-

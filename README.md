@@ -10,6 +10,7 @@ A curated collection of **PC game trainers, cheat codes, and cheat engine tables
 |---|------|------|------|------------|--------|
 | 1 | [Prince of Persia: The Sands of Time](#1--prince-of-persia-the-sands-of-time) | 2003 | Trainer | +18 Options by mul0 | ✅ Available |
 | 2 | [X2: Wolverine's Revenge](#2--x2-wolverines-revenge-2003) | 2003 | Cheat Engine | Health Freeze (.CT Table) + Updated Controls | ✅ Available |
+| 3 | [Operation Flashpoint: Cold War Crisis](#3--operation-flashpoint-cold-war-crisis-2001) | 2001 | Trainer + Cheat Engine | God Mode (+1 Trainer) + Unlimited Ammo (.CT Table) | ✅ Available |
 
 > 🕹️ **More games coming soon!** — GTA Vice City, Medal of Honor, Aladdin, and more.
 
@@ -142,6 +143,53 @@ This game has been configured with **modern updated controls** for a better expe
 
 ---
 
+## 3. 🎯 Operation Flashpoint: Cold War Crisis (2001)
+
+📁 **Folder:** `Operation-Flashpoint-Cold-War-Crisis-God-Mode/`
+
+This folder contains both a **God Mode trainer** and a **Cheat Engine table for unlimited ammo** for the classic military simulator *Operation Flashpoint: Cold War Crisis*.
+
+### God Mode Trainer (+1)
+
+| Detail | Value |
+|--------|-------|
+| **Trainer** | `cm-ofptr.exe` |
+| **Author** | CyberMan |
+| **Version** | v1.07 |
+| **Feature** | God Mode (Player Invincibility) |
+| **Supported Game Versions** | v1.00, v1.10, v1.20, v1.27, v1.30, v1.40, v1.42, v1.45, v1.46, v1.75 (any language) |
+| **Also Works With** | Red Hammer & Resistance expansions |
+
+#### How to Use the Trainer
+1. Copy `cm-ofptr.exe` into the game directory
+2. Run the trainer
+3. Click the God Mode option to activate
+
+> ⚠️ **Important:** God Mode does **NOT** work with Veteran difficulty settings and does **NOT** work in multiplayer.
+
+### Unlimited Ammo — Cheat Engine Table
+
+| Detail | Value |
+|--------|-------|
+| **Cheat File** | `OperationFlashpoint.CT` |
+| **Cheat Type** | Cheat Engine Auto Assembler Script |
+| **Target Process** | `OperationFlashpoint.exe` |
+| **Feature** | Unlimited Loaded Ammo (freeze magazine count) |
+| **Injection Point** | `OperationFlashpoint.exe+164CA1` |
+
+#### Technical Details
+The `.CT` table uses an **Auto Assembler script** that hooks the ammo write instruction at `OperationFlashpoint.exe+164CA1`. It comments out `mov [esi+0C],eax` (the instruction that saves the decreased bullet count) while keeping `mov eax,[edi]` intact for engine stability. This means your magazine never depletes.
+
+#### How to Use the Cheat Engine Table
+1. Start the game and load into a mission
+2. Open **[Cheat Engine](https://cheatengine.org/)** (v7.0+ recommended)
+3. Select the `OperationFlashpoint.exe` process
+4. Load the `OperationFlashpoint.CT` file via **File > Load**
+5. Check the box next to **"Loaded Ammo"** to activate unlimited ammo
+6. Uncheck to deactivate
+
+---
+
 ## 📁 Repository Structure
 
 ```
@@ -154,6 +202,10 @@ pc-games-with-trainer-and-cheat-codes/
 ├── X2-Wolverines-Revenge-2003-Cheat-Engine/
 │   ├── Wolverine_GodMode.CT (Cheat Engine Table)
 │   └── Wolvie.INI (Game Settings & Controls)
+├── Operation-Flashpoint-Cold-War-Crisis-God-Mode/
+│   ├── cm-ofptr.exe (God Mode Trainer)
+│   ├── OperationFlashpoint.CT (Unlimited Ammo - Cheat Engine Table)
+│   └── cm-ofptr.txt (Trainer Documentation)
 └── (More games coming soon)
 ```
 
@@ -179,4 +231,4 @@ This repository is for **educational and personal use only**. All game trainers 
 
 ## 🏷️ Keywords
 
-`game-trainer` `cheat-codes` `cheat-engine` `cheat-table` `pc-games` `game-cheats` `prince-of-persia` `sands-of-time` `wolverine-revenge` `x2-wolverine` `retro-games` `classic-games` `god-mode` `unlimited-health` `trainer-download` `pc-game-trainer` `game-hack` `wolverine-cheat` `game-controls`
+`game-trainer` `cheat-codes` `cheat-engine` `cheat-table` `pc-games` `game-cheats` `prince-of-persia` `sands-of-time` `wolverine-revenge` `x2-wolverine` `operation-flashpoint` `cold-war-crisis` `god-mode` `unlimited-ammo` `retro-games` `classic-games` `unlimited-health` `trainer-download` `pc-game-trainer` `game-hack` `military-sim`
