@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="44">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"Infinite ammo for player"</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+alloc(newmem,$120)
+label(returnhere)
+//1b0
+newmem:
+{mov [edi+0C],A5A5A5A5
+mov eax,["ColdWarAssault.exe"+00375B00]
+mov eax,[eax+08]
+mov eax,[eax+24]
+mov eax,[eax+8]
+mov eax,[eax+218]
+mov eax,[eax]
+//mov eax,[eax]
+add eax,1b0
+sub eax,edi
+cmp eax,0
+jl originalcode
+cmp eax,1b0
+ja originalcode}
+mov [edi+0C],A5A5B62D
+mov eax,[edi+0C]
+xor eax,A5A5A5A5
+jmp returnhere
+
+"ColdWarAssault.exe"+222B39:
+jmp newmem
+nop 3
+returnhere:
+
+
+ 
+ 
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+"ColdWarAssault.exe"+222B39:
+mov eax,[edi+0C]
+xor eax,A5A5A5A5
+//Alt: db 8B 47 0C 35 A5 A5 A5 A5
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"AI no ammo"</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+alloc(newmem,32)
+label(returnhere)
+
+newmem:
+mov [eax+0C],A5A5A5A5
+mov esi,[eax+0C]
+xor esi,A5A5A5A5
+jmp returnhere
+
+"ColdWarAssault.exe"+1F475D:
+jmp newmem
+nop 4
+returnhere:
+
+
+ 
+ 
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+"ColdWarAssault.exe"+1F475D:
+mov esi,[eax+0C]
+xor esi,A5A5A5A5
+//Alt: db 8B 70 0C 81 F6 A5 A5 A5 A5
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>32</ID>
+      <Description>"Vehicles no ammo"</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+alloc(newmem,32)
+label(returnhere)
+
+newmem:
+mov [edx+0C],A5A5A5A5
+mov esi,[edx+0C]
+mov edx,[edx+08]
+jmp returnhere
+
+"ColdWarAssault.exe"+FE769:
+jmp newmem
+nop
+returnhere:
+
+
+ 
+ 
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+"ColdWarAssault.exe"+FE769:
+mov esi,[edx+0C]
+mov edx,[edx+08]
+//Alt: db 8B 72 0C 8B 52 08
+</AssemblerScript>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

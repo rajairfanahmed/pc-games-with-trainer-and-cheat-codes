@@ -188,6 +188,30 @@ The `.CT` table uses an **Auto Assembler script** that hooks the ammo write inst
 5. Check the box next to **"Loaded Ammo"** to activate unlimited ammo
 6. Uncheck to deactivate
 
+### Advanced Cheat Engine Table — v1.99 (Cold War Assault)
+
+| Detail | Value |
+|--------|-------|
+| **Cheat File** | `ColdWarAssault_by_Starcraster (for v1.99).CT` |
+| **Author** | Starcraster |
+| **Target Process** | `ColdWarAssault.exe` (v1.99) |
+| **Cheat Type** | Cheat Engine Auto Assembler Scripts (3 cheats) |
+
+#### Features (3 Cheats)
+
+| # | Cheat | Description |
+|---|-------|-------------|
+| 1 | **Infinite Ammo for Player** | Freezes player magazine count — your ammo never depletes |
+| 2 | **AI No Ammo** | Enemies run out of ammo and can't shoot |
+| 3 | **Vehicles No Ammo** | Enemy vehicles run out of ammo |
+
+#### How to Use
+1. Start the game (v1.99 / Cold War Assault edition) and load into a mission
+2. Open **[Cheat Engine](https://cheatengine.org/)** (v7.0+ recommended)
+3. Select the `ColdWarAssault.exe` process
+4. Load the `ColdWarAssault_by_Starcraster (for v1.99).CT` file
+5. Check the boxes next to the cheats you want to activate
+
 ---
 
 ## 📁 Repository Structure
@@ -205,6 +229,7 @@ pc-games-with-trainer-and-cheat-codes/
 ├── Operation-Flashpoint-Cold-War-Crisis-God-Mode/
 │   ├── cm-ofptr.exe (God Mode Trainer)
 │   ├── OperationFlashpoint.CT (Unlimited Ammo - Cheat Engine Table)
+│   ├── ColdWarAssault_by_Starcraster (for v1.99).CT (3 Cheats - v1.99)
 │   └── cm-ofptr.txt (Trainer Documentation)
 └── (More games coming soon)
 ```
